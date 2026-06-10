@@ -1,1 +1,1 @@
-# Package initializer
+# Task Manager Package
